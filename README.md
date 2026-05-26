@@ -41,6 +41,17 @@ Electronics and Computer Science student passionate about full-stack development
 
 ---
 
+# 🌱 Currently Learning
+
+![Authentication](https://img.shields.io/badge/Authentication-FF6B35?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Advanced_Backend-339933?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API_Security-FF4B4B?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-6A1B9A?style=for-the-badge)
+
+---
+
 # 📌 Featured Project
 
 ## Aarogya Connect
@@ -61,15 +72,6 @@ React.js • Next.js • Node.js • Express.js • PostgreSQL • Tailwind CSS
 
 🔗 Live Demo: https://healthcarewebappuidesign.vercel.app/
 🔗 GitHub: https://github.com/Harshp006/aarogyaconnect
-
----
-
-# 🌱 Currently Learning
-
-![System Design](https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/Advanced_Backend-339933?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API_Security-FF4B4B?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-6A1B9A?style=for-the-badge)
 
 ---
 
